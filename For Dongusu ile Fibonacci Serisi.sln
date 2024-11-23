@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Dongusu ile Fibonacci Serisi", "For Dongusu ile Fibonacci Serisi\For Dongusu ile Fibonacci Serisi.csproj", "{5DFC4B98-04CA-4735-A58B-848D185B3008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC4B98-04CA-4735-A58B-848D185B3008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC4B98-04CA-4735-A58B-848D185B3008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC4B98-04CA-4735-A58B-848D185B3008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC4B98-04CA-4735-A58B-848D185B3008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5ED048E-4703-468A-84B2-6D3FA95D5488}
+	EndGlobalSection
+EndGlobal
